@@ -47,3 +47,5 @@ Video → Audio extraction → Vocal separation (HTDemucs)
 - Speaker Diarisation Accuracy
 - Audio Timing
 - Speaker Diarisation may fail if one speaker is Dominant
+- Overlapping in some places
+
